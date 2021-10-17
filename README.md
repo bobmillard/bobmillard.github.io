@@ -1,3 +1,3 @@
-### Robert Millard 
+# Robert Millard 
 
-# My CV [CV_Millard.pdf](CV_Millard.pdf)
+### My CV [CV_Millard.pdf](CV_Millard.pdf)
