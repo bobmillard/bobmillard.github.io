@@ -1,4 +1,6 @@
-##My CV
+## My CV
+[Image](https://github.com/bobmillard/bobmillard.github.io/blob/2c8992f8d0ab2131c214af48ad7d2d4a0ad4f5d3/CV_Millard.pdf)
+
 [CV_Millard.pdf](https://github.com/bobmillard/bobmillard.github.io/blob/2c8992f8d0ab2131c214af48ad7d2d4a0ad4f5d3/CV_Millard.pdf)
 
 ## Welcome to GitHub Pages
