@@ -1,6 +1,11 @@
 ## My CV
 
+[get the PDF](CV_Millard.pdf)
+
+
 ## Welcome to GitHub Pages
+
+
 
 You can use the [editor on GitHub](https://github.com/bobmillard/bobmillard.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
