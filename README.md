@@ -1,6 +1,4 @@
-## My CV
-
-[get the PDF](CV_Millard.pdf)
+## My CV [CV_Millard.pdf](CV_Millard.pdf)
 
 
 ## Welcome to GitHub Pages
