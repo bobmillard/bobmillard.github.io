@@ -1,7 +1,7 @@
 # Robert Millard
 
 # Personal Website
-<a> https://sites.google.com/view/robertmillard/home <a>
+[https://sites.google.com/view/robertmillard/home](https://sites.google.com/view/robertmillard/home)
 
 ### My  [CV](CV_Millard.pdf)
 
