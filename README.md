@@ -16,6 +16,8 @@
 - - [2020 Syllabus](2153B001COMay20.pdf)
 - - [2020 Feedback](SQCTFeedback2153B2020.pdf)
 - ECON 2138 Microeconomic Policy (2022)
+- - [2020 Syllabus](2138G001Jan22.pdf)
+- - [2022 Feedback](SQCTFeedback2123A2021.pdf)
  
 
 # Working Papers
