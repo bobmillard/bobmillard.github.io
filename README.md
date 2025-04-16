@@ -22,7 +22,7 @@
 
 # Working Papers
 
-- [The Longitudinal Effects of Disability Types on Income and Employment](Millard_earn_dynamics_WP.pdf) [(Appendix)](Millard_earn_dynamics_WP_appendix.pdf)
-- [Early Onset Disability, Education Investments, and Social Insurance](Millard_JMP.pdf)
+- [Heterogeneous Disability Shocks and the Dynamics of Income, Employment, and Partial Insurance](Millard_earn_dynamics_WP.pdf) [(Appendix)](Millard_earn_dynamics_WP_appendix.pdf)
+- [Early Onset Disability, Education Investments, and Social Insurance](Millard_JMP.pdf) [(Appendix)](JMP_appendix.pdf)
 - [The Labour Market Consequences of Disability: Types, Severity, Persistent, and Onset](Chapter_1.pdf)
 
