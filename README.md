@@ -13,13 +13,13 @@
 - - [2025 Syllabus](ECO641_syllabus_2025.pdf)
 - - [2025 Feedback](ECO647_2025.pdf), [2024 Feedback](ECO647_2024.pdf), [2023 Feedback](ECO647_2023.pdf)
 - ECO 321: Introductory Econometrics
-- - [2023 Syllabus](ECO641_syllabus_2025.pdf)
+- - [2023 Syllabus](ECO321_syllabus_2023.pdf)
 - - [2023 Feedback](ECO321_2023.pdf)
 - ECO 327: Health Economics
-- - [2023 Syllabus](ECO641_syllabus_2025.pdf)
+- - [2023 Syllabus](ECO327_syllabus_2023.pdf)
 - - [2023 Feedback](ECO327_2023.pdf)
 - ECO 337: Labor Theory
-- - [2023 Syllabus](ECO641_syllabus_2025.pdf)
+
 
 #### The University of Western Ontario
 - ECON 2123 Introductory Econometrics
