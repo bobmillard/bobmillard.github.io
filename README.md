@@ -9,9 +9,9 @@
 # Sample Course Syllabi and Student Feedback
 
 #### Stony Brook University
-- ECO 647: Labor Theory II (Graduate)
+- ECO 641: Labor Theory II (Graduate)
 - - [2025 Syllabus](ECO641_syllabus_2025.pdf)
-- - [2025 Feedback](ECO647_2025.pdf), [2024 Feedback](ECO647_2024.pdf), [2023 Feedback](ECO647_2023.pdf)
+- - [2025 Feedback](ECO647_2025.pdf), [2024 Feedback](ECO647_2024.pdf), [2023 Feedback](ECO641_2023.pdf)
 - ECO 321: Introductory Econometrics
 - - [2023 Syllabus](ECO321_syllabus_2023.pdf)
 - - [2023 Feedback](ECO321_2023.pdf)
