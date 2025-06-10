@@ -8,6 +8,11 @@
 
 # Course Syllabi 
 
+#### Stony Brook University
+- ECO 647: Labor Theory II (Graduate)
+- - [2025 Syllabus](ECO641_syllabus_2025.pdf)
+
+
 #### The University of Western Ontario
 - ECON 2123 Introductory Econometrics
 - - [2019 Syllabus](2123B001COMay19.pdf) , [2021 Syllabus](2123A650COMay21.pdf)
